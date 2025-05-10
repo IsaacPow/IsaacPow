@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Olá, eu sou o Isaac, no momento estou curso Análise e Desenvolvimento de Sistemas na Fatec Zona Sul e realizo um curso técnico no Instituto Proa chamado Proprofissão, que prepara jovens para o mercado de trabalho na área de tecnologia tecnológico.</p>
+<p align="left">Olá, eu sou o Isaac, no momento estou cursando Análise e Desenvolvimento de Sistemas na Fatec Zona Sul e realizo um curso técnico no Instituto Proa chamado Proprofissão, que prepara jovens para o mercado de trabalho na área de tecnologia tecnológico.</p>
 
 ###
 
